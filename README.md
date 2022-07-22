@@ -9,7 +9,7 @@ This is the repository for [**Secrets of Event-Based Optical Flow**](https://arx
 
  <!-- - [Paper]() -->
  - [Video](https://youtu.be/nUb2ZRPdbWk)
- - [PDF](https://arxiv.org/PDF/2207.10022)
+ - [PDF](https://arxiv.org/pdf/2207.10022)
  
  We plan to release the **code** by the time of presentation.  
 If you use this work in your research, please cite it as follows:
@@ -39,7 +39,7 @@ TBD.
 
 Additional Resources on Event-based Vision
 -------
-* [Event Collapse in Contrast Maximization Frameworks](https://doi.org/10.3390/s22145190)
+* [Event Collapse in Contrast Maximization Frameworks](https://arxiv.org/pdf/2207.04007)
 * [Research page (TU Berlin RIP lab)](https://sites.google.com/view/guillermogallego/research/event-based-vision)
 * [Course at TU Berlin](https://sites.google.com/view/guillermogallego/teaching/event-based-robot-vision)
 * [Survey paper](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)
