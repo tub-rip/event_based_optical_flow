@@ -39,7 +39,7 @@ TBD.
 
 Additional Resources on Event-based Vision
 -------
-* [Event Collapse in Contrast Maximization Frameworks](https://arxiv.org/pdf/2207.04007)
+* [Event Collapse in Contrast Maximization Frameworks](https://www.mdpi.com/1424-8220/22/14/5190) ([arxiv](https://arxiv.org/pdf/2207.04007))
 * [Research page (TU Berlin RIP lab)](https://sites.google.com/view/guillermogallego/research/event-based-vision)
 * [Course at TU Berlin](https://sites.google.com/view/guillermogallego/teaching/event-based-robot-vision)
 * [Survey paper](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)
