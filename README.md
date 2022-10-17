@@ -25,6 +25,18 @@ If you use this work in your research, please cite it as follows:
 
 # Setup
 
+## Requirements
+
+- python 3.9
+
+It is tested on Mac OS and Ubuntu. I recommend to use venv.
+
+
+```
+python3 -m venv <new_venv_path>
+```
+
+
 TBD.
 
 
@@ -34,8 +46,7 @@ Shintaro Shiba [@shiba24](https://github.com/shiba24)
 
 ## LICENSE
 
-TBD.
-
+Please check [License](./LICENSE).
 
 Additional Resources on Event-based Vision
 -------
