@@ -1,0 +1,32 @@
+.DS_Store
+
+# VS Code files for those working on multiple tools
+.vscode
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Dataset and output large file
+datasets/*
+!datasets/.gitkeep
+!datasets/README.md
+outputs/*
+!outputs/.gitkeep
+
+*.log
+*.prof
+**/__pycache__/*
+**/*.pyc
+*.mp4
+*.avi
+
+wandb/*
+jupyter/*
+.ipynb_checkpoints
+
+**build
+**dist
+**.egg-info
+

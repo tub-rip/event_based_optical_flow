@@ -1,0 +1,45 @@
+[tool.poetry]
+name = "event-based-optical-flow"
+version = "0.1.0"
+description = ""
+authors = ["Shintaro Shiba <shiba.shintaro@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.11"
+numpy = "^1.21.2"
+torch = "^1.9.1"
+torchvision = "^0.10.1"
+opencv-python = "^4.5.3"
+matplotlib = "^3.4.3"
+argparse = "^1.4.0"
+PyYAML = "^5.4.1"
+Pillow = "^8.3.2"
+optuna = "^2.10.0"
+sklearn = "^0.0"
+wandb = "^0.12.4"
+hdf5plugin = "^3.2.0"
+h5py = "^3.5.0"
+plotly = "^5.4.0"
+scikit-image = "^0.19.1"
+ffmpeg-python = "^0.2.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.5"
+black = "^21.9b0"
+mypy = "^0.910"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line-length = 100
+target-version = ['py39']
+include = '\.pyi?$'
+
+[tool.mypy]
+ignore_missing_imports = true
+
+[tool.isort]
+profile = "black"
+line_length = 119
