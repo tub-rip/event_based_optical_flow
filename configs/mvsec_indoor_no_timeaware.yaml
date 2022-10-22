@@ -1,0 +1,53 @@
+is_dnn: false
+
+data:
+  eval_dt: 4   # for MVSEC evaluation
+  root: "~/local/event_based_optical_flow/datasets/MVSEC/hdf5"
+  dataset: "MVSEC"
+  sequence: "indoor_flying1"
+  height: 260
+  width: 346
+  load_gt_flow: True
+  gt: "~/local/event_based_optical_flow/datasets/MVSEC/gt_flow"
+  n_events_per_batch: 30000
+  ind1: 1130000
+  ind2: 1160000
+
+output:
+  output_dir: "./outputs/paper/no_timeaware/indoor_flying1_dt4"
+  show_interactive_result: false
+
+solver:
+  method: "pyramidal_patch_contrast_maximization"
+  time_aware: False
+  patch:
+    initialize: "random"
+    scale: 5
+    crop_height: 256
+    crop_width: 336
+    filter_type: "bilinear"
+  motion_model: "2d-translation"
+  warp_direction: "first"
+  parameters:
+    - "trans_x"
+    - "trans_y"
+  cost: "hybrid"
+  outer_padding: 0
+  cost_with_weight:
+    multi_focal_normalized_gradient_magnitude: 1.
+    total_variation: 0.01
+  iwe:
+    method: "bilinear_vote"
+    blur_sigma: 1
+
+optimizer:
+  n_iter: 40
+  method: "Newton-CG"
+  max_iter: 25
+  parameters:
+    trans_x:
+      min: -150
+      max: 150
+    trans_y:
+      min: -150
+      max: 150

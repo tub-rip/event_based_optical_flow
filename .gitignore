@@ -30,3 +30,6 @@ jupyter/*
 **dist
 **.egg-info
 
+# Because we cannot assume pytorch version (CUDA, CPU etc), not commit .lock file.
+# https://python-poetry.org/docs/basic-usage/#commit-your-poetrylock-file-to-version-control
+poetry.lock
