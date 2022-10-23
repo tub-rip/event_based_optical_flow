@@ -47,10 +47,9 @@ The code is modularized well, so if you want to contribute, it should be easy to
 
 ## Requirements
 
-- python 3.9
+Although not all versions are strictly tested, the followings should work.
 
-Python 3.8 should be fine although it is not strictly tested.
-If you successfully run it on 3.8, please let me know so that I modify this readme.
+- python: 3.8.x, 3.9.x, 3.10.x
 
 GPU is entirely optional.
 If `torch.cuda.is_available()` then it automatically switches to use GPU.
