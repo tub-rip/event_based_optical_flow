@@ -7,7 +7,7 @@ This is the official repository for [**Secrets of Event-Based Optical Flow**](ht
 [[Video](https://youtu.be/nUb2ZRPdbWk)] [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-19797-0_36)]
  [[arXiv](https://arxiv.org/pdf/2207.10022)]
 
-[![Secrets of Event-Based Optical Flow](docs/img/thumbnail_github.png)](https://youtu.be/nUb2ZRPdbWk)
+[![Secrets of Event-Based Optical Flow](docs/img/secretsevflow_eccv22.jpg)](https://youtu.be/nUb2ZRPdbWk)
 
 
 If you use this work in your research, please cite it (see also [here](#citation)):
