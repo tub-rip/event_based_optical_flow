@@ -16,7 +16,9 @@ If you use this work in your research, please cite it (see also [here](#citation
 @InProceedings{Shiba22eccv,
   author        = {Shintaro Shiba and Yoshimitsu Aoki and Guillermo Gallego},
   title         = {Secrets of Event-based Optical Flow},
-  booktitle     = "European Conference on Computer Vision (ECCV)",
+  booktitle     = {European Conference on Computer Vision (ECCV)},
+  pages         = {628--645},
+  doi           = {10.1007/978-3-031-19797-0_36},
   year          = 2022
 }
 ```
@@ -97,7 +99,9 @@ If you use this work in your research, please cite it as follows:
 @InProceedings{Shiba22eccv,
   author        = {Shintaro Shiba and Yoshimitsu Aoki and Guillermo Gallego},
   title         = {Secrets of Event-based Optical Flow},
-  booktitle     = "European Conference on Computer Vision (ECCV)",
+  booktitle     = {European Conference on Computer Vision (ECCV)},
+  pages         = {628--645},
+  doi           = {10.1007/978-3-031-19797-0_36},
   year          = 2022
 }
 ```
@@ -137,7 +141,7 @@ I appreciate the following repositories for the inspiration:
 -------
 # Additional Resources
 
-* [Event Collapse in Contrast Maximization Frameworks](https://www.mdpi.com/1424-8220/22/14/5190) ([arxiv](https://arxiv.org/pdf/2207.04007))
+* [Event Collapse in Contrast Maximization Frameworks](https://github.com/tub-rip/event_collapse)
 * [Research page (TU Berlin RIP lab)](https://sites.google.com/view/guillermogallego/research/event-based-vision)
 * [Course at TU Berlin](https://sites.google.com/view/guillermogallego/teaching/event-based-robot-vision)
 * [Survey paper](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)
