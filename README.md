@@ -119,8 +119,7 @@ Please check it :)
   number        = 14,
   pages         = {1--20},
   article-number= 5190,
-  doi           = {10.3390/s22145190},
-  url={https://www.mdpi.com/1424-8220/22/14/5190}
+  doi           = {10.3390/s22145190}
 }
 ```
 
