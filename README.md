@@ -23,28 +23,6 @@ If you use this work in your research, please cite it (see also [here](#citation
 }
 ```
 
-### Optional tasks (for me)
-
-**The code here is already runnable, and explains the ideas of the paper enough.** (Please report bugs if any.)
-
-Rather than releasing all of my (sometimes too experimental) codes,
-I published just a minimal set of the codebase to reproduce.
-So the following tasks are more optional for me.
-But if it helps you, I can publish other parts as well. For example:
-
- - Other data loader
-
- - Some other cost functions
-
- - Pretrained model checkpoint file
-
- - Other solver (especially DNN)
-
- - The implementation of [the Sensors paper]((https://www.mdpi.com/1424-8220/22/14/5190))
-
-Your feedback is helpful to prioritize the tasks, so please contact me or raise issues.
-The code is modularized well, so if you want to contribute, it should be easy too.
-
 -------
 # Setup
 
@@ -91,6 +69,29 @@ Please run with `-h` option to know more about the other options.
 
 The config (.yaml) file specifies various experimental settings.
 Please check and change parameters as you like.
+
+### Optional tasks (for me)
+
+**The code here is already runnable, and explains the ideas of the paper enough.** (Please report bugs if any.)
+
+Rather than releasing all of my (sometimes too experimental) codes,
+I published just a minimal set of the codebase to reproduce.
+So the following tasks are more optional for me.
+But if it helps you, I can publish other parts as well. For example:
+
+ - Other data loader
+
+ - Some other cost functions
+
+ - Pretrained model checkpoint file
+
+ - Other solver (especially DNN)
+
+ - The implementation of [the Sensors paper]((https://www.mdpi.com/1424-8220/22/14/5190))
+
+Your feedback is helpful to prioritize the tasks, so please contact me or raise issues.
+The code is modularized well, so if you want to contribute, it should be easy too.
+
 # Citation
 
 If you use this work in your research, please cite it as follows:
