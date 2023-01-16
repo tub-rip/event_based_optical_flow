@@ -142,7 +142,8 @@ I appreciate the following repositories for the inspiration:
 # Additional Resources
 
 * [Event Collapse in Contrast Maximization Frameworks](https://github.com/tub-rip/event_collapse)
-* [Research page (TU Berlin RIP lab)](https://sites.google.com/view/guillermogallego/research/event-based-vision)
+* [Research page (TU Berlin, RIP lab)](https://sites.google.com/view/guillermogallego/research/event-based-vision)
+* [Research page (Keio University, Aoki Media Lab)](https://aoki-medialab.jp/home-en/)
 * [Course at TU Berlin](https://sites.google.com/view/guillermogallego/teaching/event-based-robot-vision)
 * [Survey paper](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)
 * [List of Resources](https://github.com/uzh-rpg/event-based_vision_resources)
