@@ -40,13 +40,14 @@ I'd recomment to use GPU for time-aware solutions, but CPU is ok for no-timeawar
 
 - Mac OS Monterey (both M1 and non-M1)
 - Ubuntu (CUDA 11.1 or 11.3)
+- PyTorch 1.9-1.12.1 (1.13 raises an error during Burgers).
 
 ## Installation
 
 I strongly recommend to use venv: `python3 -m venv <new_venv_path>`
 Also, you can use [poetry]().
 
-- Install pytorch and torchvision for your environment. Make sure you install the correct CUDA version if you want to use it.
+- Install pytorch **< 1.13** and torchvision for your environment. Make sure you install the correct CUDA version if you want to use it.
 
 - If you use poetry, `poetry install`. If you use only venv, check dependecy libraries and install it from [here](./pyproject.toml).
 
