@@ -1,3 +1,5 @@
+👀 **We are now working to make this method more generic, easy-to-use functions (`flow = useful_function(events)`). Stay tuned!**
+
 # Secrets of Event-Based Optical Flow (ECCV 2022)
 
 This is the official repository for [**Secrets of Event-Based Optical Flow**](https://arxiv.org/abs/2207.10022), **ECCV 2022 Oral** by  
