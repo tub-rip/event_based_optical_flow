@@ -41,7 +41,7 @@ I'd recomment to use GPU for time-aware solutions, but CPU is ok for no-timeawar
 ### Tested environments
 
 - Mac OS Monterey (both M1 and non-M1)
-- Ubuntu (CUDA 11.1 or 11.3)
+- Ubuntu (CUDA 11.1, 11.3, 11.8)
 - PyTorch 1.9-1.12.1, or PyTorch 2.0 (1.13 raises an error during Burgers).
 
 ## Installation
