@@ -5,9 +5,15 @@
 This is the official repository for [**Secrets of Event-Based Optical Flow**](https://arxiv.org/abs/2207.10022), **ECCV 2022 Oral** by  
 [Shintaro Shiba](http://shibashintaro.com/), [Yoshimitsu Aoki](https://aoki-medialab.jp/aokiyoshimitsu-en/) and [Guillermo Callego](https://sites.google.com/view/guillermogallego).
 
- <!-- - [Paper]() -->
+ <!-- - [Paper]() 
 [[Video](https://youtu.be/nUb2ZRPdbWk)] [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-19797-0_36)]
  [[arXiv](https://arxiv.org/pdf/2207.10022)]
+ -->
+
+<h2 align="left">
+  
+[Paper](https://arxiv.org/pdf/2207.10022) | [Video](https://youtu.be/nUb2ZRPdbWk)
+</h2>
 
 [![Secrets of Event-Based Optical Flow](docs/img/secretsevflow_eccv22.jpg)](https://youtu.be/nUb2ZRPdbWk)
 
