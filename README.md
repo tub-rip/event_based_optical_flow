@@ -1,9 +1,13 @@
+👀 **The extension paper has been accepted to IEEE T-PAMI! ([Paper](https://ieeexplore.ieee.org/document/10517639))**
+
 👀 **We are now working to make this method more generic, easy-to-use functions (`flow = useful_function(events)`). Stay tuned!**
 
 # Secrets of Event-Based Optical Flow (ECCV 2022)
 
 This is the official repository for [**Secrets of Event-Based Optical Flow**](https://arxiv.org/abs/2207.10022), **ECCV 2022 Oral** by  
 [Shintaro Shiba](http://shibashintaro.com/), [Yoshimitsu Aoki](https://aoki-medialab.jp/aokiyoshimitsu-en/) and [Guillermo Callego](https://sites.google.com/view/guillermogallego).
+
+We have extended this paper to a journal version: [**Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization**](https://ieeexplore.ieee.org/document/10517639), **IEEE T-PAMI 2024**.
 
  <!-- - [Paper]() 
 [[Video](https://youtu.be/nUb2ZRPdbWk)] [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-19797-0_36)]
@@ -12,7 +16,7 @@ This is the official repository for [**Secrets of Event-Based Optical Flow**](ht
 
 <h2 align="left">
   
-[Paper](https://arxiv.org/pdf/2207.10022) | [Video](https://youtu.be/nUb2ZRPdbWk)
+[Paper (ECCV 2022)](https://arxiv.org/pdf/2207.10022) | [Paper (IEEE T-PAMI 2024)](https://ieeexplore.ieee.org/document/10517639) | [Video](https://youtu.be/nUb2ZRPdbWk)
 </h2>
 
 [![Secrets of Event-Based Optical Flow](docs/img/secretsevflow_eccv22.jpg)](https://youtu.be/nUb2ZRPdbWk)
