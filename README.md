@@ -2,7 +2,7 @@
 
 👀 **We are now working to make this method more generic, easy-to-use functions (`flow = useful_function(events)`). Stay tuned!**
 
-# Secrets of Event-Based Optical Flow (ECCV 2022)
+# Secrets of Event-Based Optical Flow (ECCV 2022, T-PAMI 2024)
 
 This is the official repository for [**Secrets of Event-Based Optical Flow**](https://arxiv.org/abs/2207.10022), **ECCV 2022 Oral** by  
 [Shintaro Shiba](http://shibashintaro.com/), [Yoshimitsu Aoki](https://aoki-medialab.jp/aokiyoshimitsu-en/) and [Guillermo Callego](https://sites.google.com/view/guillermogallego).
@@ -16,7 +16,7 @@ We have extended this paper to a journal version: [**Secrets of Event-based Opti
 
 <h2 align="left">
   
-[Paper (ECCV 2022)](https://arxiv.org/pdf/2207.10022) | [Paper (IEEE T-PAMI 2024)](https://ieeexplore.ieee.org/document/10517639) | [Video](https://youtu.be/nUb2ZRPdbWk)
+[Paper (IEEE T-PAMI 2024)](https://ieeexplore.ieee.org/document/10517639) | [Paper (ECCV 2022)](https://arxiv.org/pdf/2207.10022) | [Video](https://youtu.be/nUb2ZRPdbWk)
 </h2>
 
 [![Secrets of Event-Based Optical Flow](docs/img/secretsevflow_eccv22.jpg)](https://youtu.be/nUb2ZRPdbWk)
@@ -25,6 +25,15 @@ We have extended this paper to a journal version: [**Secrets of Event-based Opti
 If you use this work in your research, please cite it (see also [here](#citation)):
 
 ```bibtex
+@Article{Shiba24pami,
+  author        = {Shintaro Shiba and Yannick Klose and Yoshimitsu Aoki and Guillermo Gallego},
+  title         = {Secrets of Event-based Optical Flow, Depth, and Ego-Motion by Contrast Maximization},
+  journal       = {IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI)},
+  year          = 2024,
+  pages         = {1--18},
+  doi           = {10.1109/TPAMI.2024.3396116}
+}
+
 @InProceedings{Shiba22eccv,
   author        = {Shintaro Shiba and Yoshimitsu Aoki and Guillermo Gallego},
   title         = {Secrets of Event-based Optical Flow},
@@ -109,18 +118,7 @@ The code is modularized well, so if you want to contribute, it should be easy to
 
 # Citation
 
-If you use this work in your research, please cite it as follows:
-
-```bibtex
-@InProceedings{Shiba22eccv,
-  author        = {Shintaro Shiba and Yoshimitsu Aoki and Guillermo Gallego},
-  title         = {Secrets of Event-based Optical Flow},
-  booktitle     = {European Conference on Computer Vision (ECCV)},
-  pages         = {628--645},
-  doi           = {10.1007/978-3-031-19797-0_36},
-  year          = 2022
-}
-```
+If you use this work in your research, please cite it **as stated above**, below the video.
 
 This code also includes some implementation of the [following paper about event collapse in details](https://www.mdpi.com/1424-8220/22/14/5190).
 Please check it :)
