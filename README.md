@@ -44,6 +44,22 @@ If you use this work in your research, please cite it (see also [here](#citation
 }
 ```
 
+## **List of datasets that the flow estimation is tested on**
+
+Although this codebase releases just MVSEC examples,
+I have tested the flow estimation is roughly good in the below datasets.
+The list is being updated, and if you test new datasets please let us know.
+
+- [MVSEC](https://daniilidis-group.github.io/mvsec/)
+- [DSEC](https://dsec.ifi.uzh.ch/dsec-datasets/download/)
+- [ECD, both simulation and real data](http://rpg.ifi.uzh.ch/davis_data.html)
+- [TUM VIE](https://cvg.cit.tum.de/data/datasets/visual-inertial-event-dataset)
+- [UZH-FPV Drone Racing Dataset](https://fpv.ifi.uzh.ch/)
+- [EDS](https://rpg.ifi.uzh.ch/eds.html#dataset)
+- [M3ED](https://m3ed.io/)
+
+The above is all public datasets, and in our paper (T-PAMI 2024) we also used some non-public dataset from previous works.
+
 -------
 # Setup
 
@@ -107,7 +123,7 @@ But if it helps you, I can publish other parts as well. For example:
 
  - Some other cost functions
 
- - Pretrained model checkpoint file
+ - Pretrained model checkpoint file ✔️ [released for MVSEC](https://drive.google.com/file/d/13m-waAt5X0C7f0JLBwb6KAApYxgXoA2J/view?usp=sharing)
 
  - Other solver (especially DNN)
 
