@@ -166,6 +166,7 @@ Please check [License](./LICENSE).
 I appreciate the following repositories for the inspiration:
 
 - [autograd-minimize](https://github.com/brunorigal/autograd-minimize)
+- [EVFlowNet-pytorch](https://github.com/CyrilSterling/EVFlowNet-pytorch)
 
 -------
 # Additional Resources
