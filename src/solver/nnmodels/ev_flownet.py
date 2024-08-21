@@ -8,6 +8,10 @@ _BASE_CHANNELS = 64
 
 
 class EVFlowNet(nn.Module):
+    """EV-FlowNet definition
+    Code is obtained from https://github.com/CyrilSterling/EVFlowNet-pytorch
+    Thanks to the author @CyrilSterling (and @alexzhu for the original paper!)
+    """
     def __init__(self, nn_param: dict = {}):
         super().__init__()
         self.no_batch_norm = nn_param["no_batch_norm"]
