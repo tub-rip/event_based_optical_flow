@@ -1,13 +1,13 @@
-👀 **The extension paper has been accepted to IEEE T-PAMI! ([Paper](https://ieeexplore.ieee.org/document/10517639))**
+👀 **The extension paper has been accepted to IEEE T-PAMI! ([Paper](https://doi.org/10.1109/TPAMI.2024.3396116))**
 
 👀 **We are now working to make this method more generic, easy-to-use functions (`flow = useful_function(events)`). Stay tuned!**
 
 # Secrets of Event-Based Optical Flow (T-PAMI 2024, ECCV 2022)
 
 This is the official repository for [**Secrets of Event-Based Optical Flow**](https://arxiv.org/abs/2207.10022), **ECCV 2022 Oral** by  
-[Shintaro Shiba](http://shibashintaro.com/), [Yoshimitsu Aoki](https://aoki-medialab.jp/aokiyoshimitsu-en/) and [Guillermo Callego](https://sites.google.com/view/guillermogallego).
+[Shintaro Shiba](http://shibashintaro.com/), [Yoshimitsu Aoki](https://aoki-medialab.jp/aokiyoshimitsu-en/) and [Guillermo Callego](http://www.guillermogallego.es).
 
-We have extended this paper to a journal version: [**Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization**](https://ieeexplore.ieee.org/document/10517639), **IEEE T-PAMI 2024**.
+We have extended this paper to a journal version: [**Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization**](https://doi.org/10.1109/TPAMI.2024.3396116), **IEEE T-PAMI 2024**.
 
  <!-- - [Paper]() 
 [[Video](https://youtu.be/nUb2ZRPdbWk)] [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-19797-0_36)]
@@ -16,7 +16,7 @@ We have extended this paper to a journal version: [**Secrets of Event-based Opti
 
 <h2 align="left">
   
-[Paper (IEEE T-PAMI 2024)](https://ieeexplore.ieee.org/document/10517639) | [Paper (ECCV 2022)](https://arxiv.org/pdf/2207.10022) | [Video](https://youtu.be/nUb2ZRPdbWk)
+[Paper (IEEE T-PAMI 2024)](https://hal.science/hal-04655247v1/document) | [Paper (ECCV 2022)](https://arxiv.org/pdf/2207.10022) | [Video](https://youtu.be/nUb2ZRPdbWk) | [Poster](docs/img/2024_TPAMI_SecretsOfEVFlow_poster.pdf)
 </h2>
 
 [![Secrets of Event-Based Optical Flow](docs/img/secretsevflow_eccv22.jpg)](https://youtu.be/nUb2ZRPdbWk)
