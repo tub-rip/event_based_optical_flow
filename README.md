@@ -171,7 +171,13 @@ I appreciate the following repositories for the inspiration:
 -------
 # Additional Resources
 
+* [Motion-prior Contrast Maximization (ECCV 2024)](https://github.com/tub-rip/MotionPriorCMax)
+* [EVILIP: Event-based Image Reconstruction as a Linear Inverse Problem (TPAMI 2022)](https://github.com/tub-rip/event_based_image_rec_inverse_problem)
 * [Event Collapse in Contrast Maximization Frameworks](https://github.com/tub-rip/event_collapse)
+* [CMax-SLAM (TRO 2024)](https://github.com/tub-rip/cmax_slam)
+* [EBOS: Event-based Background-Oriented Schlieren (TPAMI 2023)](https://github.com/tub-rip/event_based_bos)
+* [EPBA: Event-based Photometric Bundle Adjustment](https://github.com/tub-rip/epba)
+* [ES-PTAM: Event-based Stereo Parallel Tracking and Mapping](https://github.com/tub-rip/ES-PTAM)
 * [Research page (TU Berlin, RIP lab)](https://sites.google.com/view/guillermogallego/research/event-based-vision)
 * [Research page (Keio University, Aoki Media Lab)](https://aoki-medialab.jp/home-en/)
 * [Course at TU Berlin](https://sites.google.com/view/guillermogallego/teaching/event-based-robot-vision)
